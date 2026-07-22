@@ -116,11 +116,24 @@
 
 // type of operator
 
-const a = 77
-console.log(typeof a);
+// const a = 77
+// console.log(typeof a);
 
 
 
+const age = 20
+
+const result = age > 18 ? "Adult" : "Minor"
+
+console.log(result);
+
+
+if(age > 18) {
+    console.log("Adult");
+    
+} else {
+    console.log("Minor");
+}
 
 
 
