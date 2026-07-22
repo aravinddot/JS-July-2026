@@ -35,9 +35,44 @@
 
 
 
-const automation = "playwright"
+// const automation = "playwright"
 
-const Automation = "cypress"
+// const Automation = "cypress"
 
-console.log(automation);
+// console.log(automation);
 
+
+
+
+// case - sensitive
+
+
+// const automation = ""
+
+// const Automation = ""
+
+
+
+// camel case
+
+
+// first name
+
+
+const firstNamePerson = "playwright"
+
+// variables
+// functions
+// objects
+
+
+// pascal case
+
+class FirstNamePerson {
+
+}
+
+
+// snake case
+
+first_name_person
